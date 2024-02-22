@@ -1,0 +1,11 @@
+#show-hide-button {
+	padding: 10px 20px;
+	border: none;
+	background-color: rgb(0, 0, 255);
+	color: white;
+	cursor: pointer;
+
+	display: block;
+	margin: 20px auto;
+	width: fit-content;
+  }

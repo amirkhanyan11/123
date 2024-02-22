@@ -1,0 +1,41 @@
+body {
+	background-color: #ffffff; 
+}
+  
+
+#red-button {
+	padding: 10px 20px;
+	border: none;
+	background-color: rgb(255, 0, 0);
+	color: white;
+	cursor: pointer;
+
+	display: block;
+	margin: 20px auto;
+	width: fit-content;
+  }
+
+  #blue-button {
+	padding: 10px 20px;
+	border: none;
+	background-color: rgb(0, 0, 255);
+	color: white;
+	cursor: pointer;
+
+	display: block;
+	margin: 20px auto;
+	width: fit-content;
+  }
+
+  #green-button {
+	padding: 10px 20px;
+	border: none;
+	background-color: rgb(0, 255, 0);
+	color: white;
+	cursor: pointer;
+
+	display: block;
+	margin: 20px auto;
+	width: fit-content;
+  }
+  

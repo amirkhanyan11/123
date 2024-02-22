@@ -1,0 +1,32 @@
+  #button {
+	padding: 10px 20px;
+	border: none;
+	background-color: rgb(0, 0, 255);
+	color: white;
+	cursor: pointer;
+
+	display: block;
+	margin: 20px auto;
+	width: fit-content;
+  }
+
+  #text {
+	grid-column: 1;
+	align-items: center;
+	text-align: center;
+	font-size: xx-large;
+	font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #count {
+	grid-column: 2;
+	align-items: center;
+	text-align: center;
+	font-size: xx-large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+  
+  #text, #count {
+	margin: 5px;
+  }
+  
